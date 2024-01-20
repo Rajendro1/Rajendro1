@@ -1,22 +1,38 @@
-<h1 align="center">Hi 👋, I'm Rajendro Sau</h1>
-<h3 align="center">A passionate backend developer and devOps engineer from India</h3>
+# Rajendro Sau
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajendro1&label=Profile%20views&color=0e75b6&style=flat" alt="Rajendro1" /> </p>
+## GoLang Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rajendro1" alt="Rajendro1" /></a> </p>
+A dynamic and proficient Software Developer with exceptional problem-solving skills and a team-oriented approach. Specialized in developing REST and GraphQL APIs, server testing, and maintenance. Adept in scaling systems and improving server operations, demonstrating strong technical expertise and a passion for coding.
 
-- 🌱 I’m currently learning **DevOps**
+### Contact Information
+- **Email:** rajandroprosad@gmail.com
+- **Phone:** 8250771252
+- **Location:** Kolkata, India
+- **LinkedIn:** [rajendro-sau-05326314a](https://linkedin.com/in/rajendro-sau-05326314a)
+- **GitHub:** [Rajendro1/Projects](https://github.com/Rajendro1/Projects)
+- **Stack Overflow:** [rajendro-sau](https://stackoverflow.com/users/12942065/rajendro-sau)
 
-- 📫 How to reach me **rajandroprosad@gmail.com**
+### Education
+- **B.Tech**
+  - Maharshi Dayanand University (01/2017 - 09/2021)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajendro-sau-05326314a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajendro-sau-05326314a/" height="30" width="40" /></a>
-</p>
+### Work Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+#### Mobile Backend Engineer II (Golang & DevOps)
+Kushmanda Tech (https://kushmanda.tech/) | Remote, India | 09/2021 - Present
+- Spearheaded the development and launch of two innovative projects, Wiki Bedtime Stories and My Lucky Days, using GoLang.
+- Enhanced system architecture, successfully scaling from 0 to 10,000 users, showcasing scalability and resilience.
+- Optimized server operations, focusing on stability and uptime, and implemented efficient shell scripting for server configuration.
+- Streamlined API performance, significantly reducing latency and improving user experience.
+- Played a key role in API development and maintenance, ensuring robust functionality and seamless integration.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajendro1&show_icons=true&locale=en&layout=compact" alt="Rajendro1" /></p>
+### Skills
+- **Languages & Frameworks:** Go Programming Language (Expert), Python
+- **Database Management:** MySQL, Postgres, Mongodb, Redis
+- **DevOps & Server Management:** Linux (Strong Knowledge), Shell Scripting SMTP, SFTP, Kubernetes, microk8s, Ansible, 
+                Github Action, Github Registry, AWS, GCP, Ingress, Podman, Docker  
+- **Version Control & Collaboration:** GitHub
+- **Other Skills:** Quick Learning, Positiveness, REST API, GrphQl, Grpc Microservices, Monolith Architecture
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajendro1&show_icons=true&locale=en" alt="Rajendro1" /></p>
+## Summary
+As a GoLang Developer, I bring a blend of technical expertise and a positive attitude towards learning and collaboration. My experience in developing robust APIs and scaling server operations positions me as a valuable asset to any team, especially in fast-paced and growth-oriented environments.
