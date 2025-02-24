@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rajendro1" alt="Rajendro1" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps & Advance of GoLang**
+- 🌱 I am currently enhancing my skills in **DevOps and advanced GoLang**
 
 - 📫 How to reach me **rajandroprosad@gmail.com**
 
